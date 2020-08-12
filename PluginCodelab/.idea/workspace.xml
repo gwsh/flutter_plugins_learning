@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d8d842d-63b8-47d6-ad99-8367338b23b5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_30" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fzOJ28rx6UPY4EyJHDkjillilR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d8d842d-63b8-47d6-ad99-8367338b23b5" name="Default Changelist" comment="" />
+      <created>1597217378873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597217378873</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="713" y="462" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1597217439909">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="713" y="462" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1792.1097/-1920.23.1920.1057@0.23.1792.1097" timestamp="1597217439909" />
+    <state x="584" y="306" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1597217712498">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="584" y="306" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1792.1097/-1920.23.1920.1057@0.23.1792.1097" timestamp="1597217712498" />
+    <state width="1740" height="486" key="GridCell.Tab.0.bottom" timestamp="1597219159591">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1740" height="486" key="GridCell.Tab.0.bottom/0.23.1792.1097/-1920.23.1920.1057@0.23.1792.1097" timestamp="1597219159591" />
+    <state width="1740" height="486" key="GridCell.Tab.0.center" timestamp="1597219159590">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1740" height="486" key="GridCell.Tab.0.center/0.23.1792.1097/-1920.23.1920.1057@0.23.1792.1097" timestamp="1597219159590" />
+    <state width="1740" height="486" key="GridCell.Tab.0.left" timestamp="1597219159587">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1740" height="486" key="GridCell.Tab.0.left/0.23.1792.1097/-1920.23.1920.1057@0.23.1792.1097" timestamp="1597219159587" />
+    <state width="1740" height="486" key="GridCell.Tab.0.right" timestamp="1597219159591">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1740" height="486" key="GridCell.Tab.0.right/0.23.1792.1097/-1920.23.1920.1057@0.23.1792.1097" timestamp="1597219159591" />
+    <state x="281" y="123" key="SettingsEditor" timestamp="1597218104830">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="281" y="123" key="SettingsEditor/0.23.1792.1097/-1920.23.1920.1057@0.23.1792.1097" timestamp="1597218104830" />
+  </component>
+</project>
